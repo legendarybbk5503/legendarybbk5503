@@ -3,4 +3,4 @@
 - Year 12/Lower Sixth
 - Alevel: Maths, Further Maths, Physics, Computer Science
 - Programming language: python, a bit c#
-- Aiming theo physics in Imperial College London
+- Aiming theoretical physics master degree in Imperial College London
