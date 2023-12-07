@@ -1,6 +1,6 @@
-- Boarding student from Hong Kong
+- International Student from Hong Kong
 - Studying in Warwick School, UK
-- Year 12/Lower Sixth
+- Year 13/Upper Sixth
 - Alevel: Maths, Further Maths, Physics, Computer Science
 - Programming language: python, a bit c#
 - Aiming physics in oxford and theoretical physic in Imperial College London
