@@ -1,6 +1,5 @@
 - International Student from Hong Kong
-- Studying in Warwick School, UK
-- Year 13/Upper Sixth
+- Studying in University of Oxford (St Catherine's College), UK
+- Year 1 Physics
 - Alevel: Maths, Further Maths, Physics, Computer Science
-- Programming language: python, a bit c#
-- Aiming physics in oxford and theoretical physic in Imperial College London
+- Programming Lnaguage: Python
