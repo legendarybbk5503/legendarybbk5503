@@ -1,5 +1,4 @@
-- International Student from Hong Kong
-- Studying in University of Oxford (St Catherine's College), UK
+- Studying at University of Oxford (St Catherine's College), UK
 - Year 1 Physics
 - Alevel: Maths, Further Maths, Physics, Computer Science
 - Programming Lnaguage: Python
