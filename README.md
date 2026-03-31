@@ -1,4 +1,4 @@
 - Studying at University of Oxford (St Catherine's College), UK
-- Year 2 Physics
+- Year 2 Physics (MPhys)
 - Alevel: Maths, Further Maths, Physics, Computer Science
 - Programming Lnaguage: Python, LaTeX
